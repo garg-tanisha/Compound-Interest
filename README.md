@@ -1,4 +1,4 @@
-# Compount-Interest
+# Compound-Interest
 
 Tasks:
 1. Write a regression test suite in MS Test framework (multiple tests) for testing this website → "http://www.egalegal.com/compoundWindow.html"
@@ -21,7 +21,7 @@ a. Fields
 
 b. Methods
 1. Format  – to return the string ( result, accrued) in proper format
-2. CalculateCompountInterest -  calculates the CI based on the inputs provided
+2. CalculateCompoundInterest -  calculates the CI based on the inputs provided
 3. Send_Amount – extracts the element with “amount” id and enters the amount on the website
 4. Send_Interest - extracts the element with “interest” id and enters the interest on the website
 5. Send_Amount_And_Interest – do both the above steps
